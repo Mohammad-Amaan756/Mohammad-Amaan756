@@ -1,16 +1,129 @@
-## Hi there 👋
+<!-- ================= HEADER ================= -->
 
-<!--
-**Mohammad-Amaan756/Mohammad-Amaan756** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00c6ff&height=200&section=header&text=Mohammad%20Amaan&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">
+AI • Data Science • Frontend Development
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Frontend+Developer;Python+Developer;Future+AI%2FML+Engineer"/>
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+🎓 **B.Tech Computer Science & Engineering (AI Specialization)**  
+🏫 Integral University, Lucknow  
+
+💡 Passionate about building **AI systems, data science projects, and modern web interfaces**
+
+🚀 Currently learning  
+
+- Artificial Intelligence  
+- Machine Learning  
+- Deep Learning  
+- Data Science  
+- Frontend Development  
+
+🎯 Goal: **Become an AI/ML Engineer building impactful systems**
+
+---
+
+# 🧠 Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+</p>
+
+### 📊 Data Science & AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohammad-Amaan756&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Amaan756&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Mohammad-Amaan756&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammad-Amaan756&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Mohammad-Amaan756/Mohammad-Amaan756/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Mohammad-Amaan756">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 Current Focus
+
+🧠 Artificial Intelligence  
+📊 Data Science  
+🌐 Frontend Development  
+⚡ Building AI-powered projects  
+
+---
+
+
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:243B55&height=120&section=footer"/>
+</p>
