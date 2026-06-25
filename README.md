@@ -105,7 +105,7 @@ AI • Data Science • Frontend Development
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:mohammadamaan.ai@email.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
